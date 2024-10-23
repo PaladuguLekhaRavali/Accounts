@@ -1,0 +1,10 @@
+/* navbar.css */
+.navbar-nav .nav-link {
+    transition: color 0.3s ease, background-color 0.3s ease; /* Smooth transition */
+}
+
+.navbar-nav .nav-link:hover {
+    color: rgb(42, 29, 220); /* Change text color on hover */
+    background-color: #5e9adb; /* Change background color on hover */
+    border-radius: 3px; /* Optional: add rounded corners */
+}
