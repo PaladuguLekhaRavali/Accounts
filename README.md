@@ -29,4 +29,4 @@ To get a copy of this project running on your local machine, follow these steps 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/PaladuguLekhaRavali/fsad.git
+   git clone https://github.com/PaladuguLekhaRavali/Accounts.git
