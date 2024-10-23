@@ -1,6 +1,6 @@
 # Account Management
 
-This is a React application for managing user accounts, allowing users to log in, register, and view account information.
+This is a React application for managing user accounts, allowing users to log in, register, and view account and update information.
 
 ## Table of Contents
 
